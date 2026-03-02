@@ -62,11 +62,11 @@ order-service/
 **
 Installation & Setup**
 ---------------------------------
-1️⃣ Clone the Repository
+Clone the Repository
 git clone <your-repository-url>
 
 cd order-service
-2️⃣ Backend Setup
+**Backend Setup**
 
 Create Virtual Environment
 python -m venv venv
